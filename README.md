@@ -21,7 +21,7 @@ Aturan sintaksis untuk konstruksi perulangan `while` ini didefinisikan menggunak
 <value>      ::= [0-9]+
 <operator>   ::= "<" | ">" | "==" | "+" | "-" | "*" | "/"
 
-## 3. Penjelasan Implementasi Tahapan Kompilasi
+## 3. Penjelasan Implementasi Tahapan Kompilasi 
 Program ini menerima input source code berupa string (contoh: while ( x > 0 ) { x = x - 1 }) dan memprosesnya secara berurutan melalui 4 tahapan utama:
 
 ### A. Analisis Leksikal (Lexical Analysis)
