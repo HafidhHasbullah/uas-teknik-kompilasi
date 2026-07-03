@@ -1,7 +1,5 @@
 # Simulasi Compiler: Konstruksi Perulangan `while`
 
-Repositori ini berisi laporan dan implementasi Tugas Ujian Akhir Semester untuk mata kuliah Compiler. Proyek ini menyimulasikan tahapan kompilasi pada konstruksi sintaksis perulangan `while`.
-
 ## Informasi Mahasiswa
 
 | Deskripsi | Keterangan |
