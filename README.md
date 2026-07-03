@@ -1,10 +1,9 @@
-Laporan Tugas Ujian Akhir Semester: Simulasi Compiler
-Informasi Mahasiswa
+# Laporan Tugas Ujian Akhir Semester: Simulasi Compiler
 
-Nama Lengkap: Hafidh Hasbullah
+**Nama Lengkap**: Hafidh Hasbullah
 
-Nomor Induk Mahasiswa (NIM): 231011401315
+**Nomor Induk Mahasiswa (NIM)**: 231011401315
 
-Kelas: 06TPLE006
+**Kelas**: 06TPLE006
 
-Mata Kuliah: Teknik Kompilasi
+**Mata Kuliah**: Teknik Kompilasi
